@@ -1,6 +1,6 @@
 # DIO
 
-## Desafios de Projeto
+## Desafio de Projeto
 
 ### Desafio de Projeto: Desenvolvendo um Projeto com o Paradigma de Programação Orientado à Aspectos
 
